@@ -5,11 +5,11 @@ const firstName = 'Maurice';
 const lastName = 'Brown';
 // 3 - Create a third variable called `fullName`, assign it the value of your first and last name
 // (remember, you already have variables for this, can you use those?)
-const fullname = firstName+lastName;
+const fullname = firstName+ lastName;
 // 4 - Console log the value of `fullName`
 console.log( fullname );
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
-let luckynumber = 8
+const luckynumber = 8
 // 6 - Console log this sentence, adding in the variables you created above: 
 // 'My name is (full name), and I think (lucky number) is a winner!'.
 // Refer back to the videos if you need help with this one.
